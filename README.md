@@ -1,4 +1,5 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=vict-dev-j)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact)](https://github.com/vict-dev-j/github-readme-stats)
 
 <!--
 **vict-dev-j/vict-dev-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
