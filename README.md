@@ -1,8 +1,8 @@
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=vict-dev-j&show_icons=true" />
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=vict-dev-j&show_icons=true" /> -->
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact" />
 </div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vict-dev-j&theme=icegray&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
