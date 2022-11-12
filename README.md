@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: row;">
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=vict-dev-j&show_icons=true" /> -->
  <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=vict-dev-j&theme=icegray&hide_border=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact" />
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact" /> -->
 </div>
 
 ---
