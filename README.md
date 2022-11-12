@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="600" height="300"/>
-</div>
-
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=vict-dev-j&show_icons=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact" />
