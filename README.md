@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="600" height="300"/>
-</div>
+<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vict-dev-j)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vict-dev-j&layout=compact)](https://github.com/vict-dev-j/github-readme-stats)
